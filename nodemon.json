@@ -1,0 +1,7 @@
+{
+    "wath": ["src"],
+    "ext": "ts",
+    "exceMap": {
+        "ts": "ts-node src/server.ts"
+    }
+}
