@@ -1,3 +1,8 @@
+// 9 / 13  - Destino dos uploads
+// 14 / 18 - Criando hash aleatório para cada arquivo upado
+// 23 - Declarando tamanho dos arquivos que podem ser upados
+// 25 / 33 - Tipos dos arquivos suportados
+
 import multer from 'multer'
 import path from 'path'
 import crypto from 'crypto'
